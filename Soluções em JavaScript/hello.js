@@ -1,3 +1,3 @@
 console.log("");
-console.log("Vai se fuder!");
+console.log("Preciso revisar o Javascript.");
 console.log("");
