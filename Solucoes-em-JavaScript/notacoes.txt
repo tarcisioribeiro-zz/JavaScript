@@ -1,1 +1,18 @@
 Preciso fazer com que meu aprendizado seja mais rápido.
+
+Anotação em 10/11/2020:
+
+    Preciso organizar meus horários e dedicar um dia da semana a um aprendizado diferente.
+
+    Vou fazer o seguinte esquema:
+
+        Segundas-feiras: Curso de Python.
+        Terças-feiras: Desenvolvimento Mobile com Flutter.
+        Quartas-feiras: Desenvolvimento Front-End com Angular.
+        Quintas-feiras: Aulas de CSS, JavaScript e HTML.
+        Sextas-feiras: Práticas do aprendizado da semana.
+
+        Estudos ocasionais:
+        
+        Sábados: Projetos em Python.
+        Domingos: Projetos em JavaScript.
